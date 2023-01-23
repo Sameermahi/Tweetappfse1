@@ -1,0 +1,17 @@
+2022-12-14 18:52:49,525 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-12-14 18:52:49,630 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-12-14 18:52:49,631 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-12-14 18:52:49,631 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-12-14 18:52:49,631 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: D:\FSE 1 Project\Backend\Tweets.API\Tweets.API
+2022-12-14 18:52:49,632 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: D:\FSE 1 Project\Backend\Tweets.API\Tweets.API
+2022-12-14 18:53:42,329 INFO  Tweets.API.Controller.UserController.Login [85] - MESSAGE: Inside UserController - Login method
+2022-12-14 18:53:42,352 INFO  Tweets.API.Provider.UserProvider.MoveNext [51] - MESSAGE: Inside UserProvider - Login method
+2022-12-14 18:53:42,355 INFO  Tweets.API.Repository.UserRepository.MoveNext [72] - MESSAGE: Inside UserRepository - Login method
+2022-12-14 18:53:43,999 INFO  Tweets.API.Repository.UserRepository.MoveNext [84] - MESSAGE: User Successfully Logged in
+2022-12-14 18:53:44,014 INFO  Tweets.API.Repository.UserRepository.MoveNext [85] - MESSAGE: End of UserRepository - Login method
+2022-12-14 18:53:44,015 INFO  Tweets.API.Provider.UserProvider.MoveNext [57] - MESSAGE: User Successfully Logged in
+2022-12-14 18:53:44,016 INFO  Tweets.API.Provider.UserProvider.MoveNext [58] - MESSAGE: End of UserProvider - Login method
+2022-12-14 18:53:44,017 INFO  Tweets.API.Controller.UserController.Login [97] - MESSAGE: User logged in Successfully
+2022-12-14 18:53:44,021 INFO  Tweets.API.Provider.UserProvider.GetToken [78] - MESSAGE: Inside UserProvider - GetToken method
+2022-12-14 18:53:44,343 INFO  Tweets.API.Provider.UserProvider.GetToken [88] - MESSAGE: End of UserProvider - GetToken method
+2022-12-14 18:53:44,343 INFO  Tweets.API.Controller.UserController.Login [99] - MESSAGE: End of UserController - Login method

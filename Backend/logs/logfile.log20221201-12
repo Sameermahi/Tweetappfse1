@@ -1,0 +1,29 @@
+2022-12-01 12:44:34,960 INFO  Tweets.API.Controller.UserController.Login [85] - MESSAGE: Inside UserController - Login method
+2022-12-01 12:44:34,962 INFO  Tweets.API.Provider.UserProvider.MoveNext [51] - MESSAGE: Inside UserProvider - Login method
+2022-12-01 12:44:34,962 INFO  Tweets.API.Repository.UserRepository.MoveNext [72] - MESSAGE: Inside UserRepository - Login method
+2022-12-01 12:44:35,398 INFO  Tweets.API.Repository.UserRepository.MoveNext [84] - MESSAGE: User Successfully Logged in
+2022-12-01 12:44:35,399 INFO  Tweets.API.Repository.UserRepository.MoveNext [85] - MESSAGE: End of UserRepository - Login method
+2022-12-01 12:44:35,399 INFO  Tweets.API.Provider.UserProvider.MoveNext [57] - MESSAGE: User Successfully Logged in
+2022-12-01 12:44:35,401 INFO  Tweets.API.Provider.UserProvider.MoveNext [58] - MESSAGE: End of UserProvider - Login method
+2022-12-01 12:44:35,401 INFO  Tweets.API.Controller.UserController.Login [97] - MESSAGE: User logged in Successfully
+2022-12-01 12:44:35,402 INFO  Tweets.API.Provider.UserProvider.GetToken [78] - MESSAGE: Inside UserProvider - GetToken method
+2022-12-01 12:44:35,402 INFO  Tweets.API.Provider.UserProvider.GetToken [88] - MESSAGE: End of UserProvider - GetToken method
+2022-12-01 12:44:35,403 INFO  Tweets.API.Controller.UserController.Login [99] - MESSAGE: End of UserController - Login method
+2022-12-01 12:44:35,426 INFO  Tweets.API.Controller.TweetController.GetTweetsByUsername [76] - MESSAGE: Inside TweetController - GetTweetsByUsername method
+2022-12-01 12:44:35,427 INFO  Tweets.API.Provider.UserProvider.MoveNext [38] - MESSAGE: Inside TweetProvider - GetTweetsByUsername method
+2022-12-01 12:44:35,427 INFO  Tweets.API.Repository.UserRepository.MoveNext [45] - MESSAGE: Inside TweetRepository - GetTweetsByUsername method
+2022-12-01 12:44:35,479 INFO  Tweets.API.Repository.UserRepository.MoveNext [49] - MESSAGE: Fetched tweets by username Successfully
+2022-12-01 12:44:35,479 INFO  Tweets.API.Repository.UserRepository.MoveNext [50] - MESSAGE: End of TweetRepository - GetTweetsByUsername method
+2022-12-01 12:44:35,480 INFO  Tweets.API.Provider.UserProvider.MoveNext [42] - MESSAGE: Successfully fetched all tweets by user
+2022-12-01 12:44:35,481 INFO  Tweets.API.Provider.UserProvider.MoveNext [43] - MESSAGE: End of TweetProvider - GetTweetsByUsername method
+2022-12-01 12:44:35,481 INFO  Tweets.API.Controller.TweetController.GetTweetsByUsername [82] - MESSAGE: Tweets by User name fetched Successfully
+2022-12-01 12:44:35,482 INFO  Tweets.API.Controller.TweetController.GetTweetsByUsername [83] - MESSAGE: End of TweetController - GetTweetsByUsername method
+2022-12-01 12:44:45,216 INFO  Tweets.API.Controller.TweetController.GetTweetsByUsername [76] - MESSAGE: Inside TweetController - GetTweetsByUsername method
+2022-12-01 12:44:45,216 INFO  Tweets.API.Provider.UserProvider.MoveNext [38] - MESSAGE: Inside TweetProvider - GetTweetsByUsername method
+2022-12-01 12:44:45,217 INFO  Tweets.API.Repository.UserRepository.MoveNext [45] - MESSAGE: Inside TweetRepository - GetTweetsByUsername method
+2022-12-01 12:44:45,268 INFO  Tweets.API.Repository.UserRepository.MoveNext [49] - MESSAGE: Fetched tweets by username Successfully
+2022-12-01 12:44:45,268 INFO  Tweets.API.Repository.UserRepository.MoveNext [50] - MESSAGE: End of TweetRepository - GetTweetsByUsername method
+2022-12-01 12:44:45,269 INFO  Tweets.API.Provider.UserProvider.MoveNext [42] - MESSAGE: Successfully fetched all tweets by user
+2022-12-01 12:44:45,269 INFO  Tweets.API.Provider.UserProvider.MoveNext [43] - MESSAGE: End of TweetProvider - GetTweetsByUsername method
+2022-12-01 12:44:45,270 INFO  Tweets.API.Controller.TweetController.GetTweetsByUsername [82] - MESSAGE: Tweets by User name fetched Successfully
+2022-12-01 12:44:45,270 INFO  Tweets.API.Controller.TweetController.GetTweetsByUsername [83] - MESSAGE: End of TweetController - GetTweetsByUsername method

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tweets.API</name>
+    </assembly>
+    <members>
+        <member name="M:Tweets.API.Controller.TweetController.GetAllTweets">
+            <summary>
+            This method returns list of all tweets [Authorization Required]
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.TweetController.GetTweetsByUsername(System.String)">
+            <summary>
+            This method returns list of all tweets by username [Authorization Required]
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.TweetController.AddTweet(Tweets.API.Models.DTO.TweetDTO)">
+            <summary>
+            This method adds a new tweet [Authorization Required]
+            </summary>
+            <param name="tweet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.TweetController.UpdateTweet(System.Guid,Tweets.API.Models.DTO.TweetDTO)">
+            <summary>
+            This method updates a tweet [Authorization Required]
+            </summary>
+            <param name="id">ID</param>
+            <param name="tweet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.TweetController.DeleteTweet(System.Guid)">
+            <summary>
+            This method deletes a tweet [Authorization Required]
+            </summary>
+            <param name="id"></param>
+            <returns>Abcd</returns>
+        </member>
+        <member name="M:Tweets.API.Controller.TweetController.LikeTweet(System.Guid)">
+            <summary>
+            This method likes a tweet [Authorization Required]
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.TweetController.ReplyToTweet(System.Guid,Tweets.API.Models.Reply)">
+            <summary>
+            This method adds a reply to a tweet [Authorization Required]
+            </summary>
+            <param name="id"></param>
+            <param name="reply"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.UserController.Register(Tweets.API.Models.DTO.UserDTO)">
+            <summary>
+            This method registers a new user
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.UserController.Login(System.String,System.String)">
+            <summary>
+            This method login's a user
+            </summary>
+            <param name="UserName"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.UserController.ForgotPassword(System.String,System.String)">
+            <summary>
+            This method updates the password of a user for the given Username
+            </summary>
+            <param name="UserName"></param>
+            <param name="newPassword"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.UserController.GetAllUsers">
+            <summary>
+            This method returns list of all users [Authorization Required]
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Tweets.API.Controller.UserController.SearchUser(System.String)">
+            <summary>
+            This method searches for users by user name [Authorization Required]
+            </summary>
+            <param name="UserName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

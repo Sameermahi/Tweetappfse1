@@ -1,0 +1,18 @@
+2022-11-15 12:00:09,601 INFO  Tweets.API.Controller.UserController.GetAllUsers [173] - MESSAGE: Inside UserController - GetAllUsers method
+2022-11-15 12:00:09,604 INFO  Tweets.API.Provider.UserProvider.MoveNext [128] - MESSAGE: Inside UserProvider - GetAllUsers method
+2022-11-15 12:00:09,606 INFO  Tweets.API.Repository.UserRepository.MoveNext [128] - MESSAGE: Inside UserRepository - GetAllUsers method
+2022-11-15 12:00:09,675 INFO  Tweets.API.Repository.UserRepository.MoveNext [132] - MESSAGE: Successfully fetched all users
+2022-11-15 12:00:09,677 INFO  Tweets.API.Repository.UserRepository.MoveNext [133] - MESSAGE: End of UserRepository - GetAllUsers method
+2022-11-15 12:00:09,679 INFO  Tweets.API.Provider.UserProvider.MoveNext [132] - MESSAGE: Successfully fetched all users
+2022-11-15 12:00:09,682 INFO  Tweets.API.Provider.UserProvider.MoveNext [133] - MESSAGE: End of UserProvider - GetAllUsers method
+2022-11-15 12:00:09,683 INFO  Tweets.API.Controller.UserController.GetAllUsers [179] - MESSAGE: Users fetched Successfully
+2022-11-15 12:00:09,684 INFO  Tweets.API.Controller.UserController.GetAllUsers [180] - MESSAGE: End of UserController - GetAllUsers method
+2022-11-15 12:02:04,785 INFO  Tweets.API.Controller.UserController.SearchUser [212] - MESSAGE: Inside UserController - SearchUser method
+2022-11-15 12:02:04,788 INFO  Tweets.API.Provider.UserProvider.MoveNext [146] - MESSAGE: Inside UserProvider - SearchUser method
+2022-11-15 12:02:04,790 INFO  Tweets.API.Repository.UserRepository.MoveNext [146] - MESSAGE: Inside UserRepository - SearchUser method
+2022-11-15 12:02:04,874 INFO  Tweets.API.Repository.UserRepository.MoveNext [152] - MESSAGE: Successfully fetched users with given search input
+2022-11-15 12:02:04,875 INFO  Tweets.API.Repository.UserRepository.MoveNext [153] - MESSAGE: End of UserRepository - SearchUser method
+2022-11-15 12:02:04,875 INFO  Tweets.API.Provider.UserProvider.MoveNext [150] - MESSAGE: Successfully fetched users with given search input
+2022-11-15 12:02:04,876 INFO  Tweets.API.Provider.UserProvider.MoveNext [151] - MESSAGE: End of UserProvider - SearchUser method
+2022-11-15 12:02:04,876 INFO  Tweets.API.Controller.UserController.SearchUser [218] - MESSAGE: Users by username fetched Successfully
+2022-11-15 12:02:04,877 INFO  Tweets.API.Controller.UserController.SearchUser [219] - MESSAGE: End of UserController - SearchUser method

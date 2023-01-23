@@ -1,0 +1,5 @@
+API link -
+https://tweetappfse1.azurewebsites.net/swagger
+
+Total AppUi link -
+https://tweetui.azurewebsites.net/
